@@ -19,3 +19,6 @@ $$向右移动=
 ### 3.数的范围
 ![Numeric Range](lec02NumericRange.png) 
 
+### 4.Values for different word sizes
+![Values for different word sizes](lec02DifM.png) 
+
