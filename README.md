@@ -35,6 +35,9 @@ $$向右移动=
 ![Casting Surprises](lec02CastS.png) 
 
 ## Lec03
-### 1.Unsigned Addition
-![Unsigned Addition](lec03UnA.png) 
+### 1.Addition 加法
+![Addition](lec03UnA.png) 
+
+### 1.Multiplication 乘法
+![Multiplication](lec03Mul.png) 
 
