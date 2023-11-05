@@ -31,7 +31,8 @@ $$向右移动=
 ### 6.Conversion Visualized
 ![Conversion Visualized](lec02ConversionV.png) 
 
-
+### 7.Casting Surprises
+![Casting Surprises](lec02CastS.png) 
 
 
 
