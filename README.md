@@ -20,5 +20,8 @@ $$向右移动=
 ![Numeric Range](lec02NumericRange.png) 
 
 ### 4.Values for different word sizes
+* UMax = 最大的无符号数字
+* TMax = 补码的最大值
+* TMin = 补码的最小值
 ![Values for different word sizes](lec02DifM.png) 
 
