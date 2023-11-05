@@ -25,3 +25,8 @@ $$向右移动=
 * TMin = 补码的最小值
 ![Values for different word sizes](lec02DifM.png) 
 
+### 5.Unsigned and signed numeric values
+![Unsigned and signed numeric values](lec02Usvalue.png) 
+
+
+
