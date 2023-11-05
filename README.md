@@ -28,5 +28,10 @@ $$向右移动=
 ### 5.Unsigned and signed numeric values
 ![Unsigned and signed numeric values](lec02Usvalue.png) 
 
+### 6.Conversion Visualized
+![Conversion Visualized](lec02ConversionV.png) 
+
+
+
 
 
