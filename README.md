@@ -15,5 +15,5 @@ $$向右移动=
 ### 3.二进制原码和二进制补码的转十进制
 * 补码：原码除符号位翻转，末位+1
 ![Encoding Integers](lec02EncodingInteger.png)
-
+![Encoding Integers](lec02ComplementExp.png "两个二进制补码转十进制案例")
 
