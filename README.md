@@ -11,6 +11,6 @@ $$向右移动=
 算术右移& \text{有符号数：填充取决于首位是0或1：首位为0填充0，首位为1填充 }
 \end{cases}$$  
 ### 2.数的范围
-![Numeric Range]()
+![Numeric Range](lec02NumericRange.png)
 
 
