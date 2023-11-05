@@ -10,10 +10,12 @@ $$向右移动=
 逻辑右移& \text{无符号数：高位移动相应的位置，然后用0填充；}\\
 算术右移& \text{有符号数：填充取决于首位是0或1：首位为0填充0，首位为1填充 }
 \end{cases}$$  
-### 2.数的范围
-![Numeric Range](lec02NumericRange.png)  
-### 3.二进制原码和二进制补码的转十进制
+ 
+### 2.二进制原码和二进制补码的转十进制
 * 补码：原码除符号位翻转，末位+1
 ![Encoding Integers](lec02EncodingInteger.png)
 ![Encoding Integers](lec02ComplementExp.png "两个二进制补码转十进制案例")
+
+### 3.数的范围
+![Numeric Range](lec02NumericRange.png) 
 
